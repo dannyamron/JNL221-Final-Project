@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,600;1,600&family=Lato&display=swap');
+
+body{
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+h3 {
+	font-family: "Crimson Text", serif;
+	padding-bottom: 10px;
+}
+
+.title {
+	background-color: #D1C0A8;
+	font-family: "Crimson Text", serif;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+.intro {
+	font-family: "Lato", sans-serif;
+	margin-top: 15px;
+	padding-top: 20px;
+	text-align: left;
+	padding-bottom: 50px;
+}
+
+.graphic1 {
+	padding-top: 20px;
+	padding-bottom: 50px;
+}
+
+.text1 {
+	font-family: "Lato", sans-serif;
+	padding-top: 75px;
+	padding-bottom: 75px;
+}
+
+.image {
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+.graphic2 {
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+
+.text2 {
+	font-family: "Lato", sans-serif;
+	padding-top: 50px;
+	margin-bottom: 50px;
+}
+
+img {
+	width: 100%;
+}
+
+.footer {
+	background-color: #D1C0A8;
+	font-family: "Crimson Text", serif;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+ul {
+	list-style-type: none;
+}
+
+.row-underline {
+	border-bottom: 1px solid #D1C0A8;
+}
